@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This website is linked to my [github account](https://github.com/thompson575.git), which contains repositories relating to my research and teaching.
+This website is linked to my [github account](https://github.com/thompson575/), which contains repositories relating to my research and teaching.
 
 Repository   |  Description  
 -------------|-------------------  
