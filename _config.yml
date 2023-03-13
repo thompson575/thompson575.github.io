@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "John Thompson / Github Repo Website"
+title                    : "My Github Repo Website"
 title_separator          : "-"
 name                     : &name "John Thompson"
 description              : &description "Biostatician and Genetic Epidemiologist"
